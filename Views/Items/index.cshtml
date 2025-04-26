@@ -1,0 +1,36 @@
+@model List<webAPP_1.Models.Item>
+
+@{
+   ViewData["Title"] = "Index";
+   //this like <title>Index</title> in HTML
+   // you can get similar output by going to Shared/_layout.cshtml file and replace the name of the project (- webAPP_1)with your title
+}
+<h3>Index</h3>
+<table class="table">
+   <thead>
+   <tr>
+      <th>Name</th>
+      <th>Price</th>
+      <th>Serial Number</th>
+      <th>Options</th>
+   </tr>
+   </thead>
+   <tbody>
+   @foreach (var item in Model)
+   {
+      <tr>
+         <td>@item.Name   </td>
+         <td>@item.Price.ToString("N2")$</td>
+         <th>@item.SerialNumber?.Name</th>
+         @* this ? is used for if there is any item don't have serial number Serial number = null 
+         it just don't write a serial number for it rather than give an error *@
+         <td>
+            <a  asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+            <a  asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            <!--asp-action="Edit" is action tag helper that redirect to edit action-->
+            <!--asp-route-id="@item.Id is a tag helper return the Id of item-->
+         </td>
+      </tr>
+   }
+   </tbody>
+</table>

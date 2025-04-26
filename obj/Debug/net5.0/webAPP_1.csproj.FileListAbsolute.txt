@@ -1,0 +1,8 @@
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net5.0\webAPP_1.csproj.AssemblyReference.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net5.0\webAPP_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net5.0\webAPP_1.AssemblyInfoInputs.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net5.0\webAPP_1.AssemblyInfo.cs
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net5.0\webAPP_1.csproj.CoreCompileInputs.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net5.0\webAPP_1.MvcApplicationPartsAssemblyInfo.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net5.0\webAPP_1.RazorAssemblyInfo.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net5.0\webAPP_1.RazorAssemblyInfo.cs

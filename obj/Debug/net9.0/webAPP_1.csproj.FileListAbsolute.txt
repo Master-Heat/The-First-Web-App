@@ -1,0 +1,464 @@
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\appsettings.Development.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\appsettings.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.staticwebassets.runtime.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.staticwebassets.endpoints.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.exe
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.deps.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.runtimeconfig.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.pdb
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.AssemblyInfoInputs.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.AssemblyInfo.cs
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.csproj.CoreCompileInputs.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.MvcApplicationPartsAssemblyInfo.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.RazorAssemblyInfo.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.RazorAssemblyInfo.cs
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\scopedcss\bundle\webAPP_1.styles.css
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\scopedcss\projectbundle\webAPP_1.bundle.scp.css
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\8onhaleslh-b9sayid5wm.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\mntdv9ddan-61n19gt1b8.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\luburtwtv0-xtxxf3hu2r.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3vuzoe5mzn-t1cqhe9u97.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\jknb0b6x5a-c2jlpeoesf.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\v93hxipt7f-sejl45xvog.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\q99tcklvfb-aexeepp0ev.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\1k329ksw7y-xvp3kq03qx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\n8xyhevkeg-ausgxo2sd3.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\etwlr519xs-22vffe00uq.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\53i0cftu1y-cosvhxvwiu.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\vhhk1x5xnm-qesaa3a1fm.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\w5mk9stfdn-fvhpjtyr6v.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\nkav70xvp8-tmc1g35s3z.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\l1jlzbmx55-fsbi9cje9m.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\6r7qwcr4kx-rxsg74s51o.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\869lo64kmd-ee0r1s7dh0.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3hoaiz505t-q9ht133ko3.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\v9rbe1dt40-jd9uben2k1.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\gc0d4t61qn-gye83jo8yx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\sb61ky823i-r4e9w2rdcm.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\zizv2vw22r-wl58j5mj3v.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\vuy8xebhoh-c2oey78nd0.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\bitrc3r1sx-d4r6k3f320.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\mix1l1yjxd-j5mq2jizvt.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\umfzi3k3ea-keugtjm085.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\kds6l67s3i-nvvlpmu67g.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\6pgjar39bx-zub09dkrxp.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\rx4jc50sn4-pj5nd1wqec.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\xdfcbkhzlp-43atpzeawx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3izfnuelul-v0zj4ognzu.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\ke886p51c5-ynyaa8k90p.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\k1x5lf084o-hrwsygsryq.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\j7fa4bs5an-c63t5i9ira.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\o1sw24dz0g-ft3s53vfgj.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\ks9fwrnt8t-4094rpi4f9.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\4fz05q9qqx-6pdc2jztkx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\ka31q77i49-hd3gran6i8.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\a8gmpphkff-iovd86k7lj.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\k48ngd1nn7-ltid2c489k.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\2xhpajqk1t-kbrnm935zg.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\13bpds5ndv-8vyfqsqgz1.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\byen0wu6w0-y7v9cxd14o.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\9a1y33u7vz-u9q1upor1n.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\z4azrlvv8l-h1s4sie4z3.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\h7q8gitdgx-4d85u1mtcx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\s09zobwost-0j3bgjxly4.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3qzzjlkzbj-03hjc8e09r.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\sif77ewy2i-48y08845bh.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\hsdttjf9g9-356vix0kms.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3fpfk1ch4n-83jwlth58m.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\ifhqepuo0f-mrlpezrjn3.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\hkgiy606xa-worgj0nhwm.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\mis74gz5p8-gk0pw8i4co.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\deip3784y1-x0q3zqp4vz.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\7bjz377zy1-d6nrnj6jjx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\33qbmkto5t-m9qm4tazc0.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\8qgy9i5lkj-ttgo8qnofa.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\vfe81u0or8-jjsuc0puko.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\cfbkpkqko8-9vr69e8ynj.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\n2dr7ibbja-87fc7y1x7t.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\t1hanyh8pv-mlv21k5csn.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\p3owszw0hp-cx9shfytnq.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\5bxk0gd54c-cx9shfytnq.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets.build.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets.development.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.webAPP_1.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.webAPP_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.build.webAPP_1.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.webAPP_1.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.webAPP_1.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets.pack.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\refint\webAPP_1.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.pdb
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.genruntimeconfig.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\ref\webAPP_1.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Azure.Core.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Azure.Identity.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Humanizer.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\dotnet-ef.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.ClientModel.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.CodeDom.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Memory.Data.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.csproj.AssemblyReference.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.csproj.Up2Date
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\appsettings.Development.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\appsettings.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.staticwebassets.endpoints.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.staticwebassets.runtime.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.exe
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.deps.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.runtimeconfig.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\webAPP_1.pdb
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Azure.Core.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Azure.Identity.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Humanizer.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\dotnet-ef.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.ClientModel.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.CodeDom.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Memory.Data.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.csproj.AssemblyReference.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.AssemblyInfoInputs.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.AssemblyInfo.cs
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.csproj.CoreCompileInputs.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.MvcApplicationPartsAssemblyInfo.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.RazorAssemblyInfo.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.RazorAssemblyInfo.cs
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\scopedcss\bundle\webAPP_1.styles.css
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\scopedcss\projectbundle\webAPP_1.bundle.scp.css
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\8onhaleslh-b9sayid5wm.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\mntdv9ddan-61n19gt1b8.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\luburtwtv0-xtxxf3hu2r.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3vuzoe5mzn-t1cqhe9u97.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\jknb0b6x5a-c2jlpeoesf.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\v93hxipt7f-sejl45xvog.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\q99tcklvfb-aexeepp0ev.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\1k329ksw7y-xvp3kq03qx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\n8xyhevkeg-ausgxo2sd3.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\etwlr519xs-22vffe00uq.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\53i0cftu1y-cosvhxvwiu.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\vhhk1x5xnm-qesaa3a1fm.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\w5mk9stfdn-fvhpjtyr6v.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\nkav70xvp8-tmc1g35s3z.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\l1jlzbmx55-fsbi9cje9m.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\6r7qwcr4kx-rxsg74s51o.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\869lo64kmd-ee0r1s7dh0.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3hoaiz505t-q9ht133ko3.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\v9rbe1dt40-jd9uben2k1.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\gc0d4t61qn-gye83jo8yx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\sb61ky823i-r4e9w2rdcm.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\zizv2vw22r-wl58j5mj3v.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\vuy8xebhoh-c2oey78nd0.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\bitrc3r1sx-d4r6k3f320.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\mix1l1yjxd-j5mq2jizvt.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\umfzi3k3ea-keugtjm085.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\kds6l67s3i-nvvlpmu67g.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\6pgjar39bx-zub09dkrxp.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\rx4jc50sn4-pj5nd1wqec.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\xdfcbkhzlp-43atpzeawx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3izfnuelul-v0zj4ognzu.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\ke886p51c5-ynyaa8k90p.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\k1x5lf084o-hrwsygsryq.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\j7fa4bs5an-c63t5i9ira.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\o1sw24dz0g-ft3s53vfgj.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\ks9fwrnt8t-4094rpi4f9.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\4fz05q9qqx-6pdc2jztkx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\ka31q77i49-hd3gran6i8.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\a8gmpphkff-iovd86k7lj.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\k48ngd1nn7-ltid2c489k.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\2xhpajqk1t-kbrnm935zg.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\13bpds5ndv-8vyfqsqgz1.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\byen0wu6w0-y7v9cxd14o.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\9a1y33u7vz-u9q1upor1n.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\z4azrlvv8l-h1s4sie4z3.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\h7q8gitdgx-4d85u1mtcx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\s09zobwost-0j3bgjxly4.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3qzzjlkzbj-03hjc8e09r.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\sif77ewy2i-48y08845bh.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\hsdttjf9g9-356vix0kms.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\3fpfk1ch4n-83jwlth58m.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\ifhqepuo0f-mrlpezrjn3.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\hkgiy606xa-worgj0nhwm.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\mis74gz5p8-gk0pw8i4co.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\deip3784y1-x0q3zqp4vz.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\7bjz377zy1-d6nrnj6jjx.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\33qbmkto5t-m9qm4tazc0.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\8qgy9i5lkj-ttgo8qnofa.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\vfe81u0or8-jjsuc0puko.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\cfbkpkqko8-9vr69e8ynj.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\n2dr7ibbja-87fc7y1x7t.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\t1hanyh8pv-mlv21k5csn.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\p3owszw0hp-cx9shfytnq.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\compressed\5bxk0gd54c-cx9shfytnq.gz
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets.build.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets.development.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.webAPP_1.Microsoft.AspNetCore.StaticWebAssets.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.webAPP_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.build.webAPP_1.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.webAPP_1.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.webAPP_1.props
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\staticwebassets.pack.json
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.csproj.Up2Date
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\refint\webAPP_1.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.pdb
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.genruntimeconfig.cache
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\ref\webAPP_1.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Text.Json.dll
