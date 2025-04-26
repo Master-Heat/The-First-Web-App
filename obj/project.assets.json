@@ -8815,6 +8815,7 @@
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "F:\\AAA\\ASP.net Web API\\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\\webAPP_1\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -8841,8 +8842,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net9.0": {
