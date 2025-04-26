@@ -460,11 +460,10 @@ F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCam
 F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.pdb
 F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.genruntimeconfig.cache
 F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\ref\webAPP_1.dll
-F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Formats.Asn1.dll
-F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\System.Text.Json.dll
 F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\obj\Debug\net9.0\webAPP_1.sourcelink.json
 F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+F:\AAA\ASP.net Web API\ASPDOTNET_Core_MVC_Course_for_Beginnersdot_NET9FeeCodeCamp\webAPP_1\bin\Debug\net9.0\global.json
